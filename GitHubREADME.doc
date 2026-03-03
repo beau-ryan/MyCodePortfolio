@@ -1,0 +1,129 @@
+# README
+
+## 🚀 Quick Start
+
+```bash
+# Clone the repository
+git clone https://github.com/beau-ryan/MyCodePortfolio2.git
+cd MyCodePortfolio2
+
+# Quick setup (Windows)
+.\Platforms\windows\powershell\menu.ps1
+
+# Quick setup (Linux/macOS)
+./Platforms/unix/linux/setup.sh
+```
+
+---
+
+## 📋 Table of Contents
+
+- [Overview] (#-overview)
+
+- [Features] (#-features)
+
+- [Supported Platforms] (#-supported-platforms)
+
+- [Installation] (#-installation)
+
+- [Usage] (#-usage)
+
+- [Project Structure] (#-project-structure)
+
+- [Documentation] (#-documentation)
+
+- [Contributing] (#-contributing)
+
+- [License] (#-license)
+
+---
+
+## 🎯 Overview
+
+the OverView
+
+## 👋 Welcome
+
+  We’re using Discussions as a place to connect with other members of our's or the developed community. We hope that you:
+
+** Ask questions you’re wondering about.
+
+*** Share ideas. Comment in chat, add your ideas.
+
+- All ages are welcomed.
+  
+**** Engage with other community members or New Members within the communties.
+
+***** Welcome others and are open-minded. Remember that this is a
+  community we
+  build together 💪.
+<!--
+* exapmle: Share your thoughts on future project ideas and features.
+--> here are some example categories to get you started:
+
+***General Discussion** - Talk about anything related to future Software or Game projects. or follow me on Discord or use this link to link to my social medias [linktr.ee/jamierj8c](https://linktr.ee/jamierj8c)
+***Project Ideas** - Share and discuss ideas for future projects or tools.
+***Feedback & Suggestions** - Provide feedback on existing projects and suggest improvements.
+***Help & Support** - Ask for help or offer support to others regarding future projects.
+***Announcements** - Stay updated with the latest news and announcements about future projects.
+
+We’re excited to see what you’ll bring to the community!
+<!--
+  For the maintainers, here are some tips 💡 for getting started with Discussions. We'll leave these in Markdown comments for now, but feel free to take out the comments for all maintainers to see.
+
+  📢 **Announce to your community** that Discussions is available! Go ahead and send that tweet, post, or link it from the website to drive traffic here.
+
+  🔗 If you use issue templates, **link any relevant issue templates** such as questions and community conversations to Discussions. Declutter your issues by driving community content to where they belong in Discussions. If you need help, here's a [link to the documentation](https://docs.github.com/github/building-a-strong-community/configuring-issue-templates-for-your-repository#configuring-the-template-chooser).
+
+  ➡️ You can **convert issues to discussions** either individually or bulk by labels. Looking at you, issues labeled “question” or “discussion”.
+-->
+not everyyone uses GitHub Issues for tracking discussions, so this is a great way to centralize community engagement.
+
+## Git - the stupid content tracker
+
+These are common Git commands used in various situations:
+
+start a working area (see also: git help tutorial)
+   clone      Clone a repository into a new directory
+   init       Create an empty Git repository or reinitialize an existing one
+
+work on the current change (see also: git help everyday)
+   add        Add file contents to the index
+   mv         Move or rename a file, a directory, or a symlink
+   restore    Restore working tree files
+   rm         Remove files from the working tree and from the index
+
+examine the history and state (see also: git help revisions)
+   bisect     Use binary search to find the commit that introduced a bug
+   diff       Show changes between commits, commit and working tree, etc
+   grep       Print lines matching a pattern
+   log        Show commit logs
+   show       Show various types of objects
+   status     Show the working tree status
+
+grow, mark and tweak your common history
+   backfill   Download missing objects in a partial clone
+   branch     List, create, or delete branches
+   commit     Record changes to the repository
+   merge      Join two or more development histories together
+   rebase     Reapply commits on top of another base tip
+   reset      Reset current HEAD to the specified state
+   switch     Switch branches
+   tag        Create, list, delete or verify a tag object signed with GPG
+
+collaborate (see also: git help workflows)
+   fetch      Download objects and refs from another repository
+   pull       Fetch from and integrate with another repository or a local branch
+   push       Update remote refs along with associated objects
+
+'git help -a' and 'git help -g' list available subcommands and some
+concept guides. See 'git help <"command">' or 'git help <"concept">'
+to read about a specific subcommand or concept.
+See 'git help git' for an overview of the system.
+
+usage: git [-v | --version] [-h | --help] [-C < path>] [-c < name>=< value>]
+         [--exec-path[=< path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--no-lazy-fetch]
+           [--no-optional-locks] [--no-advice] [--bare] [--git-dir=< path>]
+           [--work-tree=< path>] [--namespace=< name>] [--config-env=< name>=< envvar>]
+           < command> [< args>]
