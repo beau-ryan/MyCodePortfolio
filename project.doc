@@ -13,7 +13,48 @@ Software applications or tools:
     A colorful, interactive educational web application designed for children ages 2-10 to learn **Math** and the **Alphabet** through engaging quizzes.
 
 - USOS - Universal System Operating Software
-(description)
+(description) Multi-Language-Full-stack repo
 
 - Architecture to reduce bots and get real data:
-(description) 
+(description) Data and Data traffic analyst
+
+- Web design (for Business/Private/personal and fun )
+Frame works (React, simple Html or .hta for UI sampling)
+- Pick one!!! Work on as main Home Web page for entire application 
+- link up to other external htmls I have
+
+Bugs, Fixes and Improvements(web htmls):
+- test3 index.html and a variety of the same version
+- pick one re-write seperate logic in to smaller files
+<filename>.html - <filename>.css - <filename>.js
+
+Folder Structure: Html, css, js 
+
+- Project <FolderName>
+|
+|--[filename.html]
+|
+|__[src]
+|	|
+|	|__[css]
+|	|	|
+|	|	|[filename.css]
+|	|
+|	|__[js]
+|		|
+|		|[filename.js]
+|
+|python-4-server (if needed) 
+
+Bug Fixes:
+
+
+- add logic to deselect or cut lines in test3/index.htmls
+- pick one of them and re-write integrate all 3 in to one.
+- test and revise  
+
+Improvements:
+
+- After re-write add features and optimize current funtionality
+- Add new or more funtions revelant to Web design
+- Add Test & local Server and test database 
