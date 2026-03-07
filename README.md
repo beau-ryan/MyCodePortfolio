@@ -2,7 +2,7 @@
 
 ## Project status
 
-- **Development Status:** Ongoing (solo)
+- **Development Status:** Ongoing (8months solo)
   
 - **Phase:** Slowed down as life changes dramatically And Rising AI Slop,
   its consuming time spent on the same thing, error
