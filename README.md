@@ -19,7 +19,7 @@
 
 - This project is being restarted as I had lost interest in it due to changing life circumstances, as I have to rethink my whole project or the rest of what's left of it.
 
-- for 6 months learning code doing well though the difficulty of relationships caused me to rethink my life as it doesn't meet their expectations or think I have done nothing because of this.
+- for 8 months learning code doing well though the difficulty of relationships caused me to rethink my life as it doesn't meet their expectations or think I have done nothing because of this.
 
 ## 1. Purpose & Vision
 
