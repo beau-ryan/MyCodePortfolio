@@ -24,9 +24,14 @@
 ## 1. Purpose & Vision
 
 - Empower future generations with easy-to-use technology and **intelligent AI assistance**.
+
 - Provide simple, accessible tools for anyone who wants to learn, manage, or secure their devices.
+
 - Make technology approachable for beginners and non-technical users **with conversational AI support**.
+
 - Build a complete computing environment from first principles, spanning OS design, backend automation, and user applications.
+
+- Also to develop further knowledge and skills in computer science and programming something I have never considered till 8months ago.
 
 ### Key Script Features
 
