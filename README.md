@@ -17,7 +17,7 @@
 **Time:** 4:30pm
 **Date:** 2025-11-12
 
-- This project is being stopped as I have lost interest in it also due to changing life circumstances, as I have to rethink my whole life or the rest of what's left of it.
+- This project is being restarted as I had lost interest in it due to changing life circumstances, as I have to rethink my whole project or the rest of what's left of it.
 
 - for 6 months learning code doing well though the difficulty of relationships caused me to rethink my life as it doesn't meet their expectations or think I have done nothing because of this.
 
@@ -42,7 +42,7 @@ The USOS.ps1 script is a comprehensive automation tool that:
 
 - `I:\USOS\Universal_RunnerApp\` - Main application directory
 - `I:\USOS\.venv` - Python virtual environment
-- `I:\USOS\Env_library\` - Environment configuration files # Excluding .env `Create your own` 
+- `I:\USOS\Env_library\` - Environment configuration files # Excluding .env `Create your own`
 - `I:\USOS\SYS_Root_Admin\` - Administrative scripts
 - And more in Development 'Stayed Tuned In or Don't No one cares'
 *Note: These directories are referenced in the script but may not be present in the current repository state.*
@@ -91,5 +91,6 @@ The PowerShell script provides a comprehensive menu system with 24 options inclu
 - Welcome messages
 - File browsing and selection.
   
-# Connect 
+## Connect
+
 - Contact me on here if your curious! ???
