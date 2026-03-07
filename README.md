@@ -23,11 +23,13 @@
 
 ## 1. Purpose & Vision
 
-- Empower future generations with easy-to-use technology and **intelligent AI assistance**.
+- AI is not part of this project as of yet but it is optional 
+
+- Empower future generations with easy-to-use technology and depending on how I feel I might re-add **intelligent AI assistance**.
 
 - Provide simple, accessible tools for anyone who wants to learn, manage, or secure their devices.
 
-- Make technology approachable for beginners and non-technical users **with conversational AI support**.
+- Make technology approachable for beginners and non-technical users ** only if needed conversational AI support**.
 
 - Build a complete computing environment from first principles, spanning OS design, backend automation, and user applications.
 
