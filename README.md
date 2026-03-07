@@ -59,7 +59,7 @@ The PowerShell script provides a comprehensive menu system with 24 options inclu
 **Environment Setup:**
 
 - Python installation checking
-- Virtual environment management (.SophiaPY)
+- Virtual environment management (.venv)
 - Dependency installation and upgrades
 - .env file management
 
