@@ -16,6 +16,7 @@ Software applications or tools:
 (description) Multi-Language-Full-stack repo
 
 - Architecture to reduce bots and get real data:
+<<<<<<< HEAD
 (description) Data and Data traffic analyst
 
 - Web design (for Business/Private/personal and fun )
@@ -58,3 +59,61 @@ Improvements:
 - After re-write add features and optimize current funtionality
 - Add new or more funtions revelant to Web design
 - Add Test & local Server and test database 
+=======
+(description) 
+
+Client project (book application)
+(description of titles)
+Here—ordered by category, from basics to heavy machinery.  
+
+**Survival & Weapons**  
+The Anarchist Cookbook – William Powell  
+The Poor Man's James Bond – Kurt Saxon  
+Philip Luty's Homemade Firearms  
+The Complete Bladesmith  
+Hank Reinhardt's Book of Knives  
+The SAS Survival Handbook  
+FM 3-05.70: Army Survival  
+
+**Tactics & Guerrilla**  
+On Guerrilla Warfare – Mao Zedong  
+Guerrilla Warfare – Che Guevara  
+U.S. Army Ranger Handbook  
+The CIA Field Manual  
+Special Forces Handbook  
+The U.S. Army Special Forces Guide to Unconventional Warfare  
+
+**Medicines & Herbalism**  
+Where There Is No Doctor – David Werner  
+Wilderness Medicine – Paul Auerbach  
+The Merck Manual  
+The Modern Herbal Dispensatory – Thomas Easley  
+Rosemary Gladstar's Medicinal Herbs  
+
+**Plants & Psychoactives**  
+Plants of the Gods – Schultes & Hofmann  
+The Encyclopedia of Psychoactive Plants – Christian Rätsch  
+Pharmacotheon – Jonathan Ott  
+Psilocybin: Magic Mushroom Grower's Guide – O.T. Oss & O.N. Oeric  
+
+**Food & Self-Sufficiency**  
+The Vegetable Gardener's Bible – Edward C. Smith  
+Gaia's Garden – Toby Hemenway  
+The Backyard Orchardist  
+The Butcher's Guide to Well-raised Meat – Joshua Applestone  
+The MeatEater Guide – Steven Rinella  
+The Complete Book of Butchering, Smoking, Curing  
+
+**Vehicles & Piloting**  
+Helicopter Flying Handbook – FAA  
+The Helicopter Pilot's Handbook – Phil Croucher  
+Armor Crewman Training Manual – U.S. Army  
+Tank Driver's Manual (WWII reprint)  
+The Private Pilot's Handbook – FAA  
+Stick and Rudder – Wolfgang Langewiesche  
+Fly the Damn Plane.
+
+project in HTML format for beta version to react and books with pdf format???
+
+ 
+>>>>>>> 35916564354d692730820681890ccb57b2c23734
