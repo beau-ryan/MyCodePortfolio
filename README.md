@@ -17,9 +17,9 @@
 **Time:** 4:30pm
 **Date:** 2025-11-12
 
-- This project is being restarted as I had lost interest in it due to changing life circumstances, as I have to rethink my whole project or the rest of what's left of it.
+- This project is restarted though I had lost interest in it due to changing life circumstances, as I have to rethink my whole project or the rest of what's left of it.
 
-- for 8 months learning code doing well though the difficulty of relationships caused me to rethink my life as it doesn't meet their expectations or think I have done nothing because of this.
+- for 8 months learning code doing well through the difficulty of relationships, career choices and being unemployed it kinda caused me to rethink my life as it doesn't meet their expectations or think I have done nothing because of this. rant over.
 
 ## 1. Purpose & Vision
 
