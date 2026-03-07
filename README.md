@@ -45,13 +45,14 @@ The USOS.ps1 script is a comprehensive automation tool that:
 - `I:\USOS\Env_library\` - Environment configuration files # Excluding .env `Create your own`
 - `I:\USOS\SYS_Root_Admin\` - Administrative scripts
 - And more in Development 'Stayed Tuned In or Don't No one cares'
+
 *Note: These directories are referenced in the script but may not be present in the current repository state.*
 
 - Windows PowerShell 5.1 or later
 - Python 3.11.9 or later (for full functionality)
 - Git (repository is version controlled)
 
-*Note: These directories are referenced in the script but may not be present in the current repository state.*
+
 
 ### Main Features (USOS.ps1)
 
