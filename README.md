@@ -52,8 +52,6 @@ The USOS.ps1 script is a comprehensive automation tool that:
 - Python 3.11.9 or later (for full functionality)
 - Git (repository is version controlled)
 
-
-
 ### Main Features (USOS.ps1)
 
 The PowerShell script provides a comprehensive menu system with 24 options including:
