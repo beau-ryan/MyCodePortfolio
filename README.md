@@ -2,7 +2,7 @@
 
 ## Project status
 
-- **Development Status:** Ongoing (solo)
+- **Development Status:** Ongoing (8months solo)
   
 - **Phase:** Slowed down as life changes dramatically And Rising AI Slop,
   its consuming time spent on the same thing, error
@@ -17,16 +17,23 @@
 **Time:** 4:30pm
 **Date:** 2025-11-12
 
-- This project is being restarted as I had lost interest in it due to changing life circumstances, as I have to rethink my whole project or the rest of what's left of it.
+- This project is restarted though I had lost interest in it due to changing life circumstances, as I have to rethink my whole project or the rest of what's left of it.
 
-- for 6 months learning code doing well though the difficulty of relationships caused me to rethink my life as it doesn't meet their expectations or think I have done nothing because of this.
+- for 8 months learning code doing well through the difficulty of relationships, career choices and being unemployed it kinda caused me to rethink my life as it doesn't meet their expectations or think I have done nothing because of this. rant over.
 
 ## 1. Purpose & Vision
 
-- Empower future generations with easy-to-use technology and **intelligent AI assistance**.
+- AI is not part of this project as of yet but it is optional 
+
+- Empower future generations with easy-to-use technology and depending on how I feel I might re-add **intelligent AI assistance**.
+
 - Provide simple, accessible tools for anyone who wants to learn, manage, or secure their devices.
-- Make technology approachable for beginners and non-technical users **with conversational AI support**.
+
+- Make technology approachable for beginners and non-technical users ** only if needed conversational AI support**.
+
 - Build a complete computing environment from first principles, spanning OS design, backend automation, and user applications.
+
+- Also to develop further knowledge and skills in computer science and programming something I have never considered till 8months ago.
 
 ### Key Script Features
 
@@ -59,7 +66,7 @@ The PowerShell script provides a comprehensive menu system with 24 options inclu
 **Environment Setup:**
 
 - Python installation checking
-- Virtual environment management (.SophiaPY)
+- Virtual environment management (.venv)
 - Dependency installation and upgrades
 - .env file management
 
