@@ -18,6 +18,12 @@ The style attribute is used to add styles to an element, such as color, font, si
 
 The lang attribute of the <html> tag declares the language of the Web page
 
+html tag reference contains additional information about HTML elements and their attributes.
+<p>	Defines a paragraph
+<hr>	Defines a thematic change in the content
+<br>	Inserts a single line break
+<pre>	Defines pre-formatted text
+
 The title attribute defines some extra information about an element
 -->
 <!--
@@ -38,25 +44,50 @@ My leanring example<h1>...</h1>,...<p>...</p>,...<div>....</div>,..<hr>,...<br>
 -->
 <p title="Description" style="color:blue";>studying with <br> W3Schools</p>
 <hr>
-<p title ="tool-tip">This is a paragraph</p>
+<p title="tool-tip">This is a paragraph</p>
 
-<p style ="color:red;">This is a colored paragraph</p>
-
-<a href="https://www.w3schools.com/html/">Visit our HTML tutorial</a>
-
-
-
-<h1>Example Gallery</h1>
+<p style="color:red;">This is a colored paragraph</p>
 <hr>
-<p>Here is a photo from my vacation:</p>
+<p style="color:blueviolet">
+This paragraph<br>
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.
+</p>
+<hr>
+<pre style="color:blue">
+This paragraph
+contains <br>a lot of spaces
+<br>in the source code,
+but the browser 
+ignores it.
+<hr>
+AI and people are predictable,
+the world is screwed we have less stability
+more insanity and instability than <br>before the industral revolution
+</pre>
+<hr>
+<p>
+The number of lines in a paragraph depends on the size of the browser window. If you resize the browser window, the number of lines in this paragraph will change.
+</p>
+<hr>
+<a id="webLink" href="https://www.w3schools.com/html/">Visit our HTML tutorial</a>
 
+<button onclick="document.getElementById('webLink')">Press the link/Button</button>
+    
 
-<img src="img_girl.jpg" alt="girl with a jacket" width="250" height="300"> 
-
-<button onclick="document.getElementById('title')">Press the Button</button>
-
-<h1>Hello world!</h1>
 <p>My First Paragraph</p>
+
+<h1>A Short Poem</h1>
+
+<p>Twinkle twinkle little star,<br>
+How I wonder what you are.</p>
+<hr>
+<pre>
+Up above the world so high,
+Like a diamond in the sky.
+</pre>
 
 </body>
 </html>
