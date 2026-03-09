@@ -1,0 +1,118 @@
+# What I am studying through HTB academy 
+
+1. The Principle of Abstraction - 
+2. The Principle of correspondence - also the 2nd law of the universe (The kybalilon theroy) one of the four fixed laws in reality
+3. The Principle of Data Type Completeness 
+
+The two-types of people we discuss with 
+Those that do not know anything.
+Those who think they do not know anything.
+
+and there is on more i think (the-jack-of-all-trades)
+those that think the know everything (know-it-all) but do nothing with that thinking. 
+
+Another important point is our knowledge level
+how do we improve 
+practice, practice, practice and then more practice, so to say we never really improve we just further our orignal 
+way of thinking, skills and knowlelde within certain fields or areas of interest.
+
+One of the most common questions is:
+
+When is a penetration tester good enough?
+find, choose, and adapt the information we need.
+The process of "learning how to learn" is not easy. 
+
+20 * ________+ ________ = 65535?? # example show three different ways this maths equation can be simplified and arranged.
+
+Optional Exercise:
+Ask yourself why you didn't solve the problem in a different way. Write it down and try to think about the reasons for choosing the method that you chose. Take as much time as you need for it before you continue.
+Why didn't you consider changing the arithmetic operations? Why didn't you think to add more digits? Try to answer as detailed as possible on your own. Try to write about it in at least 200 words.
+x = 20
+
+a = ?
+
+b = ?
+
+total = 65,535
+
+divide the total number by 20
+add A + B first then multiply
+
+20/65535 = a + b = 3,276.75
+
+(a + b) = 3,276.75
+
+divide the nimber by 2
+
+x= 20
+
+2/3,276.75 = a + b
+
+a= 1,638.375 
+
+
+b= 1,638.375
+
+a+b = 65,535
+
+x * (a + b) =
+
+total = 65,535
+
+2. # python .py file
+
+x = 20
+
+a = 1638.375 
+
+b = 1638.375 
+
+print(x * (a + b) )
+
+2. equation changed 
+
+x = 20
+a = 3276.75
+
+b = 3276.75
+
+s = 3276.75
+
+print(x * a + b - s)
+
+Occam's Razor is one of the central principles of modern scientific theory. The principle is based on the following definition:
+
+The most straightforward theory is preferable to all others of several sufficient possible explanations for the same state of facts. In other words: The simplest explanation is always the most probable.
+
+The simplest explanation for the best approach to penetration testing is that we work with the information we can get.
+
+3. equation change 
+T= 65,535
+a /2 = b = 32767.5
+b = 32767.5 (half)
+x = 20 
+s =/10
+t2 = 65,535
+
+# clc.py output 
+1.
+MyCodePortfolio/samplePython/clc.py
+65535.0
+65535.0
+65535.0
+
+2. # Type Annotations for decimal values is (float) , whole numbers (int) I think, I will correct myself as I go 
+
+x = 20
+a: float= 1638.375 
+b: float= 1638.375 
+a1: float = 3276.75
+b1: float = 3276.75
+s: float = 3276.75
+a2: int  = 2
+b2: int  = 10
+t: int  = 65535
+
+print(int(x * (a + b) ))
+print(int(x * a1 + b1- s))
+print(int(t / a2 * x / b2))
