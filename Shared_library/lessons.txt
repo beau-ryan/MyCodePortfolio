@@ -121,3 +121,11 @@ print(int(x * (a + b) ))
 print(int(x * a1 + b1- s))
 print(int(t / a2 * x / b2))
 
+# What I am learning, is programming is not for everyone 
+as it requires focus and the ability to think through stages,
+and to Read, Research, Copy then re-write it out and plan it then write blueprints
+and then write the code and test it and then write more code and test it again and again until you get the desired result.
+
+Nothing comes easy, 
+yet I  have a Full stack backend to frontend project with game design and OS architecture and programming and then some, all in one project, that I am working on, and I am learning a lot from it, and I am enjoying it,
+I am looking forward to learning more and more about programming and coding and how to use it to create amazing things. 
